@@ -107,7 +107,7 @@ You need the PlantVillage dataset to train the model.
 
     Open the train.py file and update the DATASET_PATH variable to point to the directory where you saved the dataset.
 
-    # In train.py
+In train.py
     
 DATASET_PATH = 'path/to/your/PlantVillage/dataset' # IMPORTANT: Change this!
 
