@@ -97,7 +97,7 @@ Follow these steps to set up and run the project on your local machine.
 
 You need the PlantVillage dataset to train the model.
 
-  - Download the dataset from this Kaggle link.
+  - Download the dataset from this Kaggle link 🔗https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
   - Extract the contents. You should have a directory structure like New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train, valid, etc
 
